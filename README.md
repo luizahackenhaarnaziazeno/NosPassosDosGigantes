@@ -57,10 +57,8 @@ javac NosPassosDosGigantes.java
 
 # Rodar
 java NosPassosDosGigantes
+  ```
 
-```
-
-<br>
 
 # Autora:
 

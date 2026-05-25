@@ -66,3 +66,5 @@ java NosPassosDosGigantes
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/142232479?v=4" width=115><br><sub>Luiza Hackenhaar Naziazeno</sub>](https://github.com/luizahackenhaarnaziazeno)|
 | :---: |
+
+</div>

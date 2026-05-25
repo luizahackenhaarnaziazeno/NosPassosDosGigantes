@@ -43,7 +43,7 @@ Antes de rodar, você precisa ajustar o caminho da pasta onde estão os arquivos
 1.  Abra o arquivo `NosPassosDosGigantes.java`.
 2.  Procure pela linha dentro do `main` que contém o caminho do arquivo:
     ```java
-    File file = new File("C:\\projects\\Facul\\T2 Jb\\Nos-Passos-Dos-Gigantes\\casosdeteste\\" + arquivo);
+    File file = new File("C:\\projects\\Nos-Passos-Dos-Gigantes\\casosdeteste\\" + arquivo);
     ```
 3.  **Altere este caminho** para o local onde a pasta `casosdeteste` está no seu computador.
 

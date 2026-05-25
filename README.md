@@ -48,7 +48,7 @@ Antes de rodar, você precisa ajustar o caminho da pasta onde estão os arquivos
 3.  **Altere este caminho** para o local onde a pasta `casosdeteste` está no seu computador.
 
 ### Compilação e Execução
-
+<div align="center">
 No terminal, navegue até a pasta do projeto e execute:
 
 ```bash
